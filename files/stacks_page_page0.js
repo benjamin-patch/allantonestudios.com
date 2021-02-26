@@ -1992,6 +1992,26 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_339);
+stacks.stacks_in_482 = {};
+stacks.stacks_in_482 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+
+
+
+
+
+
+
+	// Load parallax effect
+	
+
+});
+
+
+// $(window).load(function(){
+// });
+
+return stack;})(stacks.stacks_in_482);
 stacks.stacks_in_342 = {};
 stacks.stacks_in_342 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){

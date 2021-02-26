@@ -11349,6 +11349,236 @@ body {
 
 
 
+
+#stacks_in_482 {
+	margin-bottom: 21px;
+}
+
+
+
+	
+
+
+#stacks_in_482 .banner {
+	width: 100%;
+}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	#stacks_in_482 .banner {
+		background-color: #2C2C2E;
+	}
+
+
+
+	
+
+
+
+
+
+
+
+
+	#stacks_in_482 .banner_content > .container {
+		max-width: 1140px;
+	}
+
+
+#stacks_in_482 .banner_inner {
+	display: table;
+	height: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	z-index: 100;
+	width: 100%;
+}
+
+#stacks_in_482 .banner_content {
+	display: table-cell;
+	vertical-align: middle;
+	position: relative;
+}
+
+#stacks_in_482_scroll_button {
+	background: rgba(255, 255, 255, 0.80);
+	color: rgba(0, 0, 0, 1.00);
+	height: 44px;
+	width: 44px;
+	border-radius: 50%;
+	position: absolute;
+	left: 50%;
+	margin-left: -22px;
+	bottom: 30px;
+	text-align: center;
+	line-height: 44px !important;
+	cursor: pointer;
+	
+}
+
+@media (max-width: 47.9375em) {
+	/*Small*/
+	#stacks_in_482_scroll_button {
+		bottom: 70px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/*Medium*/
+	#stacks_in_482_scroll_button {
+		bottom: 70px;
+	}
+}
+
+@media (min-width: 62em) and (max-width: 74.9em) {
+	/*Large*/
+	#stacks_in_482_scroll_button {
+		bottom: 70px;
+	}
+}
+
+
+
+#stacks_in_482 {
+	-moz-border-radius: 0px 0px 4px 4px;
+	-webkit-border-radius: 0px 0px 4px 4px;
+	border-radius: 0px 0px 4px 4px;
+}
+
+
+
+@media (max-width: 47.9375em) {
+	/* iPhone */
+	#stacks_in_473 .foundry_column {
+		margin-bottom: 0px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/* iPad */
+	#stacks_in_473 .foundry_column {
+		margin-bottom: 0px;
+	}
+}
+
+@media (min-width: 62em) {
+	/* Desktop */
+	#stacks_in_473 .foundry_column {
+		margin-bottom: 0px;
+	}
+}
+
+
+/* CSS for removing gutters if option is enabled. */
+#stacks_in_473 .row.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+  }
+  
+  #stacks_in_473 .row.no-gutters > [class^="col-"],
+  #stacks_in_473 .row.no-gutters > [class*=" col-"] {
+	padding-right: 0;
+	padding-left: 0;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+#stacks_in_473 {
+	padding: 5px 0px 0px 0px;
+}
+
+
+
+/* Color picker style settings */
+
+
+
+
+
+
+
+	
+	#stacks_in_468 p,
+	#stacks_in_468 {
+		
+	}
+	
+
+	
+	
+	
+	
+	
+
+
+
+#stacks_in_468 p,
+#stacks_in_468 {
+	
+}
+
+
+
+
+/* Color picker style settings */
+
+
+
+
+
+
+
+	
+	#stacks_in_476 p,
+	#stacks_in_476 {
+		
+	}
+	
+
+	
+	
+	
+	
+	
+
+
+
+#stacks_in_476 p,
+#stacks_in_476 {
+	
+}
+
+
+
 #stacks_in_337 h3 {
 	
 	font-style: normal;
