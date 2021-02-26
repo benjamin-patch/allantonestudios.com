@@ -1940,6 +1940,40 @@ $(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_330);
+stacks.stacks_in_484 = {};
+stacks.stacks_in_484 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;
+$(document).ready(function(){
+  $(".stacks_in_484-anchor-scroll").click(function(event){
+    var clickedLink = $(this);
+    event.preventDefault();
+    var anchorOffset = ($('[name="'+this.hash.substring(1)+'"]').offset().top) - 100;
+    $('html,body').animate({scrollTop: anchorOffset}, 1000, "easeOutQuint");
+    // $('.foundry-mega-menu').slideToggle(300);
+  });
+
+
+  
+
+    // var inview = new Waypoint.Inview({
+    //   element: $('#testimonials'),
+    //   enter: function(direction) {
+    //       $(".stacks_in_484-anchor-scroll").parent().addClass('selected');
+    //       $(".stacks_in_484-anchor-scroll").parent().prev().removeClass('selected');
+    //       $(".stacks_in_484-anchor-scroll").parent().next().removeClass('selected');
+    //   },
+    //   exited: function(direction) {
+    //       $(".stacks_in_484-anchor-scroll").parent().removeClass('selected');
+    //     console.log('Exit triggered with direction ' + direction);
+    //   },
+    //   offset: 'bottom-in-view'
+    // });
+
+
+
+});
+
+return stack;})(stacks.stacks_in_484);
 stacks.stacks_in_335 = {};
 stacks.stacks_in_335 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;
@@ -2208,6 +2242,23 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_396);
+stacks.stacks_in_485 = {};
+stacks.stacks_in_485 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+	$('#stacks_in_485 > .anchor').parentsUntil('.stacks_top').css({'overflow' : 'visible'});
+	$('.stacks_top').css({'overflow' : 'visible'});
+});
+
+return stack;})(stacks.stacks_in_485);
+stacks.stacks_in_488 = {};
+stacks.stacks_in_488 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+	$('#stacks_in_488 .structure_tab').appendTo('#stacks_in_488 .structure_tab_bar');
+	$('#stacks_in_488 .structure_tab_bar .structure_tab:first-child > a.nav-link').addClass('active');
+	$('#stacks_in_488 .tab-pane').first().addClass('active').addClass('in');
+});
+
+return stack;})(stacks.stacks_in_488);
 stacks.stacks_in_373 = {};
 stacks.stacks_in_373 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){

@@ -11297,6 +11297,13 @@ body {
 @media (max-width: 47.9em) {
   
 }
+.stacks_in_484-anchor > a > i {
+  margin-right: 4px;
+}
+
+@media (max-width: 47.9em) {
+  
+}
 .stacks_in_335-anchor > a > i {
   margin-right: 4px;
 }
@@ -13472,6 +13479,586 @@ p.stacks_in_183 {
 	overflow: hidden;
 }
 
+
+
+
+	#stacks_in_485 .anchor {
+		position: absolute;
+		left: 0;
+		margin-left: -40px;
+		margin-top: 10px;
+		z-index: 100;
+	}
+
+
+#stacks_in_485 .anchor {
+	font-size: 24px;
+	line-height: 24px;
+}
+
+
+
+
+#stacks_in_486 h3 {
+	
+	font-style: normal;
+
+	
+	
+	letter-spacing: 0px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+#stacks_in_486 a.foundry-header-linked,
+#stacks_in_486 a.foundry-header-linked:visited {
+	color: rgba(3, 118, 216, 1.00);
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#stacks_in_486 a.foundry-header-linked:hover,
+#stacks_in_486 a.foundry-header-linked:active {
+	color: rgba(5, 116, 216, 1.00);
+	text-decoration: none;
+}
+
+
+
+#stacks_in_488 .tab-pane {
+	
+	padding: 0px !important;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+#stacks_in_488 a.nav-link,
+#stacks_in_488 a.nav-link:visited,
+#stacks_in_488 a.nav-link:hover,
+#stacks_in_488 a.nav-link:active {
+	text-decoration: none;
+}
+
+
+	
+	#stacks_in_488 ul.nav {
+		text-align: center;
+	}
+
+	#stacks_in_488 .nav-tabs .nav-item,
+	#stacks_in_488 .nav-pills .nav-item {
+		display: inline-block;
+		float: none;
+	}
+	
+
+	
+
+
+
+
+
+
+
+@media (max-width: 47.9375em) {
+	/* iPhone */
+	#stacks_in_496 .foundry_column {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/* iPad */
+	#stacks_in_496 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+@media (min-width: 62em) {
+	/* Desktop */
+	#stacks_in_496 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+
+/* CSS for removing gutters if option is enabled. */
+#stacks_in_496 .row.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+  }
+  
+  #stacks_in_496 .row.no-gutters > [class^="col-"],
+  #stacks_in_496 .row.no-gutters > [class*=" col-"] {
+	padding-right: 0;
+	padding-left: 0;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_503 blockquote p,
+#stacks_in_503 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_503 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_503 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_503 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_505 blockquote p,
+#stacks_in_505 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_505 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_505 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_505 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_507 blockquote p,
+#stacks_in_507 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_507 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_507 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_507 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+
+
+@media (max-width: 47.9375em) {
+	/* iPhone */
+	#stacks_in_509 .foundry_column {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/* iPad */
+	#stacks_in_509 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+@media (min-width: 62em) {
+	/* Desktop */
+	#stacks_in_509 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+
+/* CSS for removing gutters if option is enabled. */
+#stacks_in_509 .row.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+  }
+  
+  #stacks_in_509 .row.no-gutters > [class^="col-"],
+  #stacks_in_509 .row.no-gutters > [class*=" col-"] {
+	padding-right: 0;
+	padding-left: 0;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_518 blockquote p,
+#stacks_in_518 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_518 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_518 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_518 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_521 blockquote p,
+#stacks_in_521 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_521 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_521 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_521 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_523 blockquote p,
+#stacks_in_523 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_523 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_523 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_523 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+
+
+@media (max-width: 47.9375em) {
+	/* iPhone */
+	#stacks_in_514 .foundry_column {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/* iPad */
+	#stacks_in_514 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+@media (min-width: 62em) {
+	/* Desktop */
+	#stacks_in_514 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+
+/* CSS for removing gutters if option is enabled. */
+#stacks_in_514 .row.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+  }
+  
+  #stacks_in_514 .row.no-gutters > [class^="col-"],
+  #stacks_in_514 .row.no-gutters > [class*=" col-"] {
+	padding-right: 0;
+	padding-left: 0;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_525 blockquote p,
+#stacks_in_525 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_525 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_525 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_525 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_529 blockquote p,
+#stacks_in_529 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_529 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_529 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_529 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_527 blockquote p,
+#stacks_in_527 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_527 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_527 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_527 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+
+
+
+
+/* Option for removing base margin */
+
+
+
+#stacks_in_531 blockquote p,
+#stacks_in_531 .blockquote_edit {
+		font-weight: 400;
+		font-style: normal;
+}
+
+#stacks_in_531 blockquote footer {
+		font-weight: 400;
+		font-style: normal;
+}
+
+
+@media (max-width: 47.9375em) {
+	#stacks_in_531 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
+
+@media (min-width: 48em) {
+	#stacks_in_531 blockquote p,
+	.blockquote_edit {
+		font-size: 20px !important;
+	}
+}
 
 
 
