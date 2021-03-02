@@ -12460,7 +12460,54 @@ p.stacks_in_183 {
 
 
 
-#stacks_in_433 h4 {
+
+@media (max-width: 47.9375em) {
+	/* iPhone */
+	#stacks_in_533 .foundry_column {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/* iPad */
+	#stacks_in_533 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+@media (min-width: 62em) {
+	/* Desktop */
+	#stacks_in_533 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+
+/* CSS for removing gutters if option is enabled. */
+#stacks_in_533 .row.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+  }
+  
+  #stacks_in_533 .row.no-gutters > [class^="col-"],
+  #stacks_in_533 .row.no-gutters > [class*=" col-"] {
+	padding-right: 0;
+	padding-left: 0;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+#stacks_in_534 h4 {
 	
 	font-style: normal;
 
@@ -12480,18 +12527,49 @@ p.stacks_in_183 {
 
 
 
-#stacks_in_433 a.foundry-header-linked,
-#stacks_in_433 a.foundry-header-linked:visited {
+#stacks_in_534 a.foundry-header-linked,
+#stacks_in_534 a.foundry-header-linked:visited {
 	color: rgba(3, 118, 216, 1.00);
 	cursor: pointer;
 	text-decoration: none;
 }
 
-#stacks_in_433 a.foundry-header-linked:hover,
-#stacks_in_433 a.foundry-header-linked:active {
+#stacks_in_534 a.foundry-header-linked:hover,
+#stacks_in_534 a.foundry-header-linked:active {
 	color: rgba(5, 116, 216, 1.00);
 	text-decoration: none;
 }
+
+
+
+/* Color picker style settings */
+
+
+
+
+
+
+
+	
+	#stacks_in_537 p,
+	#stacks_in_537 {
+		
+	}
+	
+
+	
+	
+	
+	
+	
+
+
+
+#stacks_in_537 p,
+#stacks_in_537 {
+	
+}
+
 
 
 
