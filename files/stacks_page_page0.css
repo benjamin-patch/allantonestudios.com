@@ -12707,7 +12707,54 @@ p.stacks_in_183 {
 
 
 
-#stacks_in_425 h4 {
+
+@media (max-width: 47.9375em) {
+	/* iPhone */
+	#stacks_in_543 .foundry_column {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/* iPad */
+	#stacks_in_543 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+@media (min-width: 62em) {
+	/* Desktop */
+	#stacks_in_543 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+
+/* CSS for removing gutters if option is enabled. */
+#stacks_in_543 .row.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+  }
+  
+  #stacks_in_543 .row.no-gutters > [class^="col-"],
+  #stacks_in_543 .row.no-gutters > [class*=" col-"] {
+	padding-right: 0;
+	padding-left: 0;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+#stacks_in_544 h4 {
 	
 	font-style: normal;
 
@@ -12727,51 +12774,82 @@ p.stacks_in_183 {
 
 
 
-#stacks_in_425 a.foundry-header-linked,
-#stacks_in_425 a.foundry-header-linked:visited {
+#stacks_in_544 a.foundry-header-linked,
+#stacks_in_544 a.foundry-header-linked:visited {
 	color: rgba(3, 118, 216, 1.00);
 	cursor: pointer;
 	text-decoration: none;
 }
 
-#stacks_in_425 a.foundry-header-linked:hover,
-#stacks_in_425 a.foundry-header-linked:active {
+#stacks_in_544 a.foundry-header-linked:hover,
+#stacks_in_544 a.foundry-header-linked:active {
 	color: rgba(5, 116, 216, 1.00);
 	text-decoration: none;
 }
 
 
 
+/* Color picker style settings */
+
+
+
+
+
+
+
+	
+	#stacks_in_547 p,
+	#stacks_in_547 {
+		
+	}
+	
+
+	
+	
+	
+	
+	
+
+
+
+#stacks_in_547 p,
+#stacks_in_547 {
+	
+}
+
+
+
+
 @media (max-width: 47.9375em) {
 	/* iPhone */
-	#stacks_in_427 .foundry_column {
+	#stacks_in_559 .foundry_column {
 		margin-bottom: 20px;
 	}
 }
 
 @media (min-width: 48em) and (max-width: 61.9em) {
 	/* iPad */
-	#stacks_in_427 .foundry_column {
+	#stacks_in_559 .foundry_column {
 		margin-bottom: 40px;
 	}
 }
 
 @media (min-width: 62em) {
 	/* Desktop */
-	#stacks_in_427 .foundry_column {
+	#stacks_in_559 .foundry_column {
 		margin-bottom: 40px;
 	}
 }
 
 
 /* CSS for removing gutters if option is enabled. */
-#stacks_in_427 .row.no-gutters {
+#stacks_in_559 .row.no-gutters {
 	margin-right: 0;
 	margin-left: 0;
   }
   
-  #stacks_in_427 .row.no-gutters > [class^="col-"],
-  #stacks_in_427 .row.no-gutters > [class*=" col-"] {
+  #stacks_in_559 .row.no-gutters > [class^="col-"],
+  #stacks_in_559 .row.no-gutters > [class*=" col-"] {
 	padding-right: 0;
 	padding-left: 0;
   }
@@ -12788,95 +12866,7 @@ p.stacks_in_183 {
 
 
 
-#stacks_in_430 img {
-	
-	
-	display: inline-block;
-	margin-bottom: 21px;
-	
-}
-
-@media (max-width: 47.9375em) {
-	/*Mobile*/
-	#stacks_in_430 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 48em) and (max-width: 61.9em) {
-	/*Tablet*/
-	#stacks_in_430 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 62em) {
-	/*Desktop*/
-	#stacks_in_430 img {
-		
-			
-			
-	}
-}
-
-
-#stacks_in_430 figure {
-	padding: 0 !important;
-	margin: 0 !important;
-	overflow: hidden;
-}
-
-
-
-#stacks_in_431 img {
-	
-	
-	display: inline-block;
-	margin-bottom: 21px;
-	
-}
-
-@media (max-width: 47.9375em) {
-	/*Mobile*/
-	#stacks_in_431 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 48em) and (max-width: 61.9em) {
-	/*Tablet*/
-	#stacks_in_431 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 62em) {
-	/*Desktop*/
-	#stacks_in_431 img {
-		
-			
-			
-	}
-}
-
-
-#stacks_in_431 figure {
-	padding: 0 !important;
-	margin: 0 !important;
-	overflow: hidden;
-}
-
-
-
-#stacks_in_442 h4 {
+#stacks_in_560 h4 {
 	
 	font-style: normal;
 
@@ -12896,151 +12886,47 @@ p.stacks_in_183 {
 
 
 
-#stacks_in_442 a.foundry-header-linked,
-#stacks_in_442 a.foundry-header-linked:visited {
+#stacks_in_560 a.foundry-header-linked,
+#stacks_in_560 a.foundry-header-linked:visited {
 	color: rgba(3, 118, 216, 1.00);
 	cursor: pointer;
 	text-decoration: none;
 }
 
-#stacks_in_442 a.foundry-header-linked:hover,
-#stacks_in_442 a.foundry-header-linked:active {
+#stacks_in_560 a.foundry-header-linked:hover,
+#stacks_in_560 a.foundry-header-linked:active {
 	color: rgba(5, 116, 216, 1.00);
 	text-decoration: none;
 }
 
 
 
-@media (max-width: 47.9375em) {
-	/* iPhone */
-	#stacks_in_437 .foundry_column {
-		margin-bottom: 20px;
+/* Color picker style settings */
+
+
+
+
+
+
+
+	
+	#stacks_in_563 p,
+	#stacks_in_563 {
+		
 	}
-}
+	
 
-@media (min-width: 48em) and (max-width: 61.9em) {
-	/* iPad */
-	#stacks_in_437 .foundry_column {
-		margin-bottom: 40px;
-	}
-}
-
-@media (min-width: 62em) {
-	/* Desktop */
-	#stacks_in_437 .foundry_column {
-		margin-bottom: 40px;
-	}
-}
-
-
-/* CSS for removing gutters if option is enabled. */
-#stacks_in_437 .row.no-gutters {
-	margin-right: 0;
-	margin-left: 0;
-  }
-  
-  #stacks_in_437 .row.no-gutters > [class^="col-"],
-  #stacks_in_437 .row.no-gutters > [class*=" col-"] {
-	padding-right: 0;
-	padding-left: 0;
-  }
-  
-
-
-
-
-
-
-
-
-
-
-
-
-#stacks_in_440 img {
 	
 	
-	display: inline-block;
-	margin-bottom: 21px;
-	
-}
-
-@media (max-width: 47.9375em) {
-	/*Mobile*/
-	#stacks_in_440 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 48em) and (max-width: 61.9em) {
-	/*Tablet*/
-	#stacks_in_440 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 62em) {
-	/*Desktop*/
-	#stacks_in_440 img {
-		
-			
-			
-	}
-}
-
-
-#stacks_in_440 figure {
-	padding: 0 !important;
-	margin: 0 !important;
-	overflow: hidden;
-}
-
-
-
-#stacks_in_438 img {
 	
 	
-	display: inline-block;
-	margin-bottom: 21px;
 	
-}
-
-@media (max-width: 47.9375em) {
-	/*Mobile*/
-	#stacks_in_438 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 48em) and (max-width: 61.9em) {
-	/*Tablet*/
-	#stacks_in_438 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 62em) {
-	/*Desktop*/
-	#stacks_in_438 img {
-		
-			
-			
-	}
-}
 
 
-#stacks_in_438 figure {
-	padding: 0 !important;
-	margin: 0 !important;
-	overflow: hidden;
+
+#stacks_in_563 p,
+#stacks_in_563 {
+	
 }
 
 
@@ -13077,141 +12963,6 @@ p.stacks_in_183 {
 	color: rgba(5, 116, 216, 1.00);
 	text-decoration: none;
 }
-
-
-
-@media (max-width: 47.9375em) {
-	/* iPhone */
-	#stacks_in_449 .foundry_column {
-		margin-bottom: 20px;
-	}
-}
-
-@media (min-width: 48em) and (max-width: 61.9em) {
-	/* iPad */
-	#stacks_in_449 .foundry_column {
-		margin-bottom: 40px;
-	}
-}
-
-@media (min-width: 62em) {
-	/* Desktop */
-	#stacks_in_449 .foundry_column {
-		margin-bottom: 40px;
-	}
-}
-
-
-/* CSS for removing gutters if option is enabled. */
-#stacks_in_449 .row.no-gutters {
-	margin-right: 0;
-	margin-left: 0;
-  }
-  
-  #stacks_in_449 .row.no-gutters > [class^="col-"],
-  #stacks_in_449 .row.no-gutters > [class*=" col-"] {
-	padding-right: 0;
-	padding-left: 0;
-  }
-  
-
-
-
-
-
-
-
-
-
-
-
-
-#stacks_in_452 img {
-	
-	
-	display: inline-block;
-	margin-bottom: 21px;
-	
-}
-
-@media (max-width: 47.9375em) {
-	/*Mobile*/
-	#stacks_in_452 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 48em) and (max-width: 61.9em) {
-	/*Tablet*/
-	#stacks_in_452 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 62em) {
-	/*Desktop*/
-	#stacks_in_452 img {
-		
-			
-			
-	}
-}
-
-
-#stacks_in_452 figure {
-	padding: 0 !important;
-	margin: 0 !important;
-	overflow: hidden;
-}
-
-
-
-#stacks_in_450 img {
-	
-	
-	display: inline-block;
-	margin-bottom: 21px;
-	
-}
-
-@media (max-width: 47.9375em) {
-	/*Mobile*/
-	#stacks_in_450 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 48em) and (max-width: 61.9em) {
-	/*Tablet*/
-	#stacks_in_450 img {
-		
-			
-			
-	}
-}
-
-@media (min-width: 62em) {
-	/*Desktop*/
-	#stacks_in_450 img {
-		
-			
-			
-	}
-}
-
-
-#stacks_in_450 figure {
-	padding: 0 !important;
-	margin: 0 !important;
-	overflow: hidden;
-}
-
 
 
 

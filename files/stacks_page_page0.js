@@ -2114,48 +2114,6 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_229);
-stacks.stacks_in_430 = {};
-stacks.stacks_in_430 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-  
-});
-
-return stack;})(stacks.stacks_in_430);
-stacks.stacks_in_431 = {};
-stacks.stacks_in_431 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-  
-});
-
-return stack;})(stacks.stacks_in_431);
-stacks.stacks_in_440 = {};
-stacks.stacks_in_440 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-  
-});
-
-return stack;})(stacks.stacks_in_440);
-stacks.stacks_in_438 = {};
-stacks.stacks_in_438 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-  
-});
-
-return stack;})(stacks.stacks_in_438);
-stacks.stacks_in_452 = {};
-stacks.stacks_in_452 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-  
-});
-
-return stack;})(stacks.stacks_in_452);
-stacks.stacks_in_450 = {};
-stacks.stacks_in_450 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-  
-});
-
-return stack;})(stacks.stacks_in_450);
 stacks.stacks_in_328 = {};
 stacks.stacks_in_328 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
