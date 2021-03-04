@@ -11624,6 +11624,71 @@ body {
 }
 
 
+#stacks_in_199 h4 {
+	
+	font-style: normal;
+
+	
+	
+	letter-spacing: 0px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+#stacks_in_199 a.foundry-header-linked,
+#stacks_in_199 a.foundry-header-linked:visited {
+	color: rgba(3, 118, 216, 1.00);
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#stacks_in_199 a.foundry-header-linked:hover,
+#stacks_in_199 a.foundry-header-linked:active {
+	color: rgba(5, 116, 216, 1.00);
+	text-decoration: none;
+}
+
+
+
+/* Color picker style settings */
+
+
+
+
+
+
+
+	
+	#stacks_in_597 p,
+	#stacks_in_597 {
+		
+	}
+	
+
+	
+	
+	
+	
+	
+
+
+
+#stacks_in_597 p,
+#stacks_in_597 {
+	
+}
+
+
+
 
 #stacks_in_342 .tab-pane {
 	
@@ -11671,7 +11736,54 @@ body {
 
 
 
-#stacks_in_199 h4 {
+
+@media (max-width: 47.9375em) {
+	/* iPhone */
+	#stacks_in_591 .foundry_column {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/* iPad */
+	#stacks_in_591 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+@media (min-width: 62em) {
+	/* Desktop */
+	#stacks_in_591 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+
+/* CSS for removing gutters if option is enabled. */
+#stacks_in_591 .row.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+  }
+  
+  #stacks_in_591 .row.no-gutters > [class^="col-"],
+  #stacks_in_591 .row.no-gutters > [class*=" col-"] {
+	padding-right: 0;
+	padding-left: 0;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+#stacks_in_592 h4 {
 	
 	font-style: normal;
 
@@ -11691,399 +11803,49 @@ body {
 
 
 
-#stacks_in_199 a.foundry-header-linked,
-#stacks_in_199 a.foundry-header-linked:visited {
+#stacks_in_592 a.foundry-header-linked,
+#stacks_in_592 a.foundry-header-linked:visited {
 	color: rgba(3, 118, 216, 1.00);
 	cursor: pointer;
 	text-decoration: none;
 }
 
-#stacks_in_199 a.foundry-header-linked:hover,
-#stacks_in_199 a.foundry-header-linked:active {
+#stacks_in_592 a.foundry-header-linked:hover,
+#stacks_in_592 a.foundry-header-linked:active {
 	color: rgba(5, 116, 216, 1.00);
 	text-decoration: none;
 }
 
 
 
-@media (max-width: 47.9375em) {
-	/* iPhone */
-	#stacks_in_145 .foundry_column {
-		margin-bottom: 20px;
-	}
-}
-
-@media (min-width: 48em) and (max-width: 61.9em) {
-	/* iPad */
-	#stacks_in_145 .foundry_column {
-		margin-bottom: 40px;
-	}
-}
-
-@media (min-width: 62em) {
-	/* Desktop */
-	#stacks_in_145 .foundry_column {
-		margin-bottom: 40px;
-	}
-}
-
-
-/* CSS for removing gutters if option is enabled. */
-#stacks_in_145 .row.no-gutters {
-	margin-right: 0;
-	margin-left: 0;
-  }
-  
-  #stacks_in_145 .row.no-gutters > [class^="col-"],
-  #stacks_in_145 .row.no-gutters > [class*=" col-"] {
-	padding-right: 0;
-	padding-left: 0;
-  }
-  
-
-
-
-
-
-
-
-
-
-
-
-#stacks_in_145 {
-	padding:  20px;
-}
-
-
-
-
-.stacks_in_131-foundry-card.card {
-	
-}
-
-.stacks_in_131-foundry-card .card_overlap_image {
-	position: relative;
-	height: auto;
-	width: 40%;
-	border: 5px solid #fff;
-	margin: 0 auto;
-	margin-top: -20%;
-	
-}
-
-
-
-
-
-
-.stacks_in_131-foundry-card .card-header {
-	
-}
-
-.stacks_in_131-foundry-card .card-footer {
-	
-}
-
-.stacks_in_131-foundry-card .card-footer p,
-.stacks_in_131-foundry-card .card-header p, {
-	margin-bottom: 0;
-}
-
-
-
-
-.stacks_in_131-foundry-card .card-img-top,
-.stacks_in_131-foundry-card .card-img-bottom {
-	width: 100% !important;
-}
-
-
-/* Handles placement of footer for equal height Cards. Fix in v1.0.1 */
-/* Custom Fix, not a part of Bootstrap's Card component. */
-@media (min-width: 34em) {
-	.stacks_in_131-foundry-card .card-footer {
-		position: absolute;
-		bottom: 0;
-		width: 100%;
-	}
-
-	
-		
-	
-
-	
-}
-
-
-
-
-
-
-
-
-
-.stacks_in_131-foundry-card .display-btn-one,
-.stacks_in_131-foundry-card .display-btn-two {
-	width: 100%;
-	display: inline-block;
-	text-decoration: none; 
-	border-left: none;
-	border-bottom: none;
-	border-color: rgba(229, 229, 229, 1.00);
-	border-top-style: solid;
-	border-top-size: 1px;
-}
-
-
-
-
-
-
-
-.stacks_in_131-foundry-card .bottom-buttons-wrapper {
-	width: 100%;
-	position: absolute;
-	bottom: 0;
-}
-
-h3.stacks_in_54_hdr {
-	
-	
-	font-style: normal;
-}
-
-
-
-
-
-
 /* Color picker style settings */
 
 
-p.stacks_in_133 {
-	
-}
 
 
 
 
-.stacks_in_171-foundry-card.card {
-	
-}
-
-.stacks_in_171-foundry-card .card_overlap_image {
-	position: relative;
-	height: auto;
-	width: 40%;
-	border: 5px solid #fff;
-	margin: 0 auto;
-	margin-top: -20%;
-	
-}
-
-
-
-
-
-
-.stacks_in_171-foundry-card .card-header {
-	
-}
-
-.stacks_in_171-foundry-card .card-footer {
-	
-}
-
-.stacks_in_171-foundry-card .card-footer p,
-.stacks_in_171-foundry-card .card-header p, {
-	margin-bottom: 0;
-}
-
-
-
-
-.stacks_in_171-foundry-card .card-img-top,
-.stacks_in_171-foundry-card .card-img-bottom {
-	width: 100% !important;
-}
-
-
-/* Handles placement of footer for equal height Cards. Fix in v1.0.1 */
-/* Custom Fix, not a part of Bootstrap's Card component. */
-@media (min-width: 34em) {
-	.stacks_in_171-foundry-card .card-footer {
-		position: absolute;
-		bottom: 0;
-		width: 100%;
-	}
 
 	
+	#stacks_in_595 p,
+	#stacks_in_595 {
 		
-	
-
-	
-}
-
-
-
-
-
-
-
-
-
-.stacks_in_171-foundry-card .display-btn-one,
-.stacks_in_171-foundry-card .display-btn-two {
-	width: 100%;
-	display: inline-block;
-	text-decoration: none; 
-	border-left: none;
-	border-bottom: none;
-	border-color: rgba(229, 229, 229, 1.00);
-	border-top-style: solid;
-	border-top-size: 1px;
-}
-
-
-
-
-
-
-
-.stacks_in_171-foundry-card .bottom-buttons-wrapper {
-	width: 100%;
-	position: absolute;
-	bottom: 0;
-}
-
-h3.stacks_in_172_hdr {
-	
-	
-	font-style: normal;
-}
-
-
-
-
-
-
-/* Color picker style settings */
-
-
-p.stacks_in_175 {
-	
-}
-
-
-
-
-.stacks_in_179-foundry-card.card {
-	
-}
-
-.stacks_in_179-foundry-card .card_overlap_image {
-	position: relative;
-	height: auto;
-	width: 40%;
-	border: 5px solid #fff;
-	margin: 0 auto;
-	margin-top: -20%;
-	
-}
-
-
-
-
-
-
-.stacks_in_179-foundry-card .card-header {
-	
-}
-
-.stacks_in_179-foundry-card .card-footer {
-	
-}
-
-.stacks_in_179-foundry-card .card-footer p,
-.stacks_in_179-foundry-card .card-header p, {
-	margin-bottom: 0;
-}
-
-
-
-
-.stacks_in_179-foundry-card .card-img-top,
-.stacks_in_179-foundry-card .card-img-bottom {
-	width: 100% !important;
-}
-
-
-/* Handles placement of footer for equal height Cards. Fix in v1.0.1 */
-/* Custom Fix, not a part of Bootstrap's Card component. */
-@media (min-width: 34em) {
-	.stacks_in_179-foundry-card .card-footer {
-		position: absolute;
-		bottom: 0;
-		width: 100%;
 	}
-
-	
-		
 	
 
 	
-}
-
-
-
-
-
-
-
-
-
-.stacks_in_179-foundry-card .display-btn-one,
-.stacks_in_179-foundry-card .display-btn-two {
-	width: 100%;
-	display: inline-block;
-	text-decoration: none; 
-	border-left: none;
-	border-bottom: none;
-	border-color: rgba(229, 229, 229, 1.00);
-	border-top-style: solid;
-	border-top-size: 1px;
-}
-
-
-
-
-
-
-
-.stacks_in_179-foundry-card .bottom-buttons-wrapper {
-	width: 100%;
-	position: absolute;
-	bottom: 0;
-}
-
-h3.stacks_in_180_hdr {
 	
 	
-	font-style: normal;
-}
+	
+	
 
 
 
-
-
-
-/* Color picker style settings */
-
-
-p.stacks_in_183 {
+#stacks_in_595 p,
+#stacks_in_595 {
 	
 }
+
 
 
 
