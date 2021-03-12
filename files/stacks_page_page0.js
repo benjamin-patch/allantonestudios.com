@@ -2131,61 +2131,6 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_374);
-stacks.stacks_in_392 = {};
-stacks.stacks_in_392 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-
-  function whichTransitionEvent(){
-    var t,
-        el = document.createElement("fakeelement");
-
-    var transitions = {
-      "transition"      : "transitionend",
-      "OTransition"     : "oTransitionEnd",
-      "MozTransition"   : "transitionend",
-      "WebkitTransition": "webkitTransitionEnd"
-    }
-
-    for (t in transitions){
-      if (el.style[t] !== undefined){
-        return transitions[t];
-      }
-    }
-  }
-
-  var transitionEvent = whichTransitionEvent();
-
-//
-// -----------------
-//
-
-  if ($(".glide_sections_content #stacks_in_392 .foundry_image_hover_img")[0]){
-      // Do something if class exists
-      $('#stacks_in_392 .foundry_image_hover_img').parentsUntil('.glide_sections_content').css({'overflow' : 'visible'});
-      $('.stacks_top').css({'overflow' : 'visible'});
-  } else {
-      // Do something if class does not exist
-      $('#stacks_in_392 .foundry_image_hover_img').parentsUntil('.stacks_top').css({'overflow' : 'visible'});
-      $('.stacks_top').css({'overflow' : 'visible'});
-  }
-
-  // var inidcatorIcon = $('#stacks_in_392 .indicator-icon');
-  // $('#stacks_in_392 .foundry_image_hover_img').hover(function(){
-
-  //   if ((inidcatorIcon.is(':visible'))) {
-  //     inidcatorIcon.hide();
-  //   } else {
-  //     $('#stacks_in_392 .foundry_image_hover_img').one(transitionEvent,
-  //       function(event) {
-  //         inidcatorIcon.show();
-  //       });
-  //   }
-
-  // });
-
-});
-
-return stack;})(stacks.stacks_in_392);
 stacks.stacks_in_393 = {};
 stacks.stacks_in_393 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
