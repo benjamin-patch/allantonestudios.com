@@ -2156,10 +2156,3 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_373);
-stacks.stacks_in_399 = {};
-stacks.stacks_in_399 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-  
-});
-
-return stack;})(stacks.stacks_in_399);
