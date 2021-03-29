@@ -2100,20 +2100,6 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_413);
-stacks.stacks_in_228 = {};
-stacks.stacks_in_228 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-  
-});
-
-return stack;})(stacks.stacks_in_228);
-stacks.stacks_in_229 = {};
-stacks.stacks_in_229 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
-  
-});
-
-return stack;})(stacks.stacks_in_229);
 stacks.stacks_in_328 = {};
 stacks.stacks_in_328 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
