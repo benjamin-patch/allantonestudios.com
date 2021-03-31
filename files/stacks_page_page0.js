@@ -2142,3 +2142,13 @@ var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_373);
+stacks.stacks_in_805_4 = {};
+stacks.stacks_in_805_4 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;$(document).ready(function(){
+	
+		$('#stacks_in_805_4 > .container').parentsUntil('.stacks_top').css('overflow', 'visible');
+		$('.stacks_top').css({'overflow' : 'visible'});
+	
+});
+
+return stack;})(stacks.stacks_in_805_4);
