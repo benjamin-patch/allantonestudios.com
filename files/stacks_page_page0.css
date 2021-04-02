@@ -4875,6 +4875,9 @@ body {
 	/*Mobile*/
 	#stacks_in_206 img {
 		
+		
+		width: 75%;
+		height: auto;
 			
 			
 	}
@@ -4884,6 +4887,9 @@ body {
 	/*Tablet*/
 	#stacks_in_206 img {
 		
+		
+		width: 65%;
+		height: auto;
 			
 			
 	}
@@ -4893,6 +4899,9 @@ body {
 	/*Desktop*/
 	#stacks_in_206 img {
 		
+		
+		width: 50%;
+		height: auto;
 			
 			
 	}
@@ -5489,45 +5498,6 @@ body {
 /* Banner Pairing Feature */
 
 	
-		@media (max-width: 47.99em) {
-		/*Mobile*/
-			#stacks_in_323 {
-				width: 100% !important;
-				position: absolute;
-				
-				margin-top: -48px;
-				bottom: 0;
-
-				
-			}
-		}
-
-		@media (min-width: 48em) and (max-width: 61.9em) {
-		/*Tablet*/
-			#stacks_in_323 {
-				width: 100% !important;
-				position: absolute;
-				
-				margin-top: -100px;
-				bottom: 0;
-				
-			}
-		}
-
-		@media (min-width: 62em) {
-		/*Desktop*/
-			#stacks_in_323 {
-				width: 100% !important;
-				position: absolute;
-				
-				margin-top: -100px;
-				bottom: 0;
-
-				
-			}
-		}
-
-	
 
 	
 	#stacks_in_323 .is-sticky .nav-sticky-container {
@@ -5992,10 +5962,6 @@ body {
 #stacks_in_337 a.foundry-header-linked:active {
 	color: rgba(5, 116, 216, 1.00);
 	text-decoration: none;
-}
-
-#stacks_in_337 {
-	margin: 15px 0px 0px 0px;
 }
 
 

@@ -1784,12 +1784,6 @@ var jQuery = stacks.jQuery;var $ = jQuery;function megaMenu() {
   	// Handles pairing navigation with parent banner
   	//
   	
-  		closestBanner = $('#stacks_in_323').closest('.nav_pairing');
-
-  		
-  		$('#stacks_in_323').appendTo(closestBanner);
-  		
-  	
 
 }
 
