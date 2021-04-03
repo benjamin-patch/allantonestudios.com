@@ -5738,7 +5738,7 @@ body {
 
 
 	#stacks_in_482 .banner {
-		background-color: #2C2C2E;
+		background-color: #141414;
 	}
 
 
@@ -5865,12 +5865,43 @@ body {
 
 
 #stacks_in_473 {
-	padding: 5px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
 }
 
 
 
 /* Color picker style settings */
+
+
+#stacks_in_468 p {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+#stacks_in_468 p a,
+#stacks_in_468 p a:visited {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+#stacks_in_468 p a:hover,
+#stacks_in_468 p a:active {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+/* Edit mode custom colors. */
+#stacks_in_468 .paragraph {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+#stacks_in_468 .paragraph a,
+#stacks_in_468 .paragraph a:visited {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+#stacks_in_468 .paragraph a:hover,
+#stacks_in_468 .paragraph a:active {
+	color: rgba(246, 231, 119, 1.00);
+}
+
 
 
 
@@ -5902,6 +5933,37 @@ body {
 
 
 /* Color picker style settings */
+
+
+#stacks_in_476 p {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+#stacks_in_476 p a,
+#stacks_in_476 p a:visited {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+#stacks_in_476 p a:hover,
+#stacks_in_476 p a:active {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+/* Edit mode custom colors. */
+#stacks_in_476 .paragraph {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+#stacks_in_476 .paragraph a,
+#stacks_in_476 .paragraph a:visited {
+	color: rgba(246, 231, 119, 1.00);
+}
+
+#stacks_in_476 .paragraph a:hover,
+#stacks_in_476 .paragraph a:active {
+	color: rgba(246, 231, 119, 1.00);
+}
+
 
 
 

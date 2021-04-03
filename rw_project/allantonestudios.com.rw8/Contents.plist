@@ -16,7 +16,7 @@
 					<key>page0 - file:///Users/benpatch/Sites/allantonestudios.com/code/allantonestudios.com/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-04-03T17:13:25Z</date>
+						<date>2021-04-03T17:47:01Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -111,15 +111,25 @@
 								<key>Size</key>
 								<integer>295897</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5MsOVT5d8mht
+								rfCNtCfPug==
+								</data>
+								<key>Size</key>
+								<integer>1850</integer>
+							</dict>
 							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								nfWezeb+aLrl
-								/AQYureV7A==
+								0tTukQ/oWuqB
+								iiPBjRzTKg==
 								</data>
 								<key>Size</key>
-								<integer>183583</integer>
+								<integer>184684</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
@@ -135,11 +145,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								YMWrf8JCWCfA
-								7KskJpmFFw==
+								CEbUE+zj5ibJ
+								NxX/7r7j5A==
 								</data>
 								<key>Size</key>
-								<integer>62269</integer>
+								<integer>62281</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -426,7 +436,7 @@
 					<key>rw:plugin:stacks - file:///Users/benpatch/Sites/allantonestudios.com/code/allantonestudios.com/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-04-03T17:13:25Z</date>
+						<date>2021-04-03T17:47:01Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -545,11 +555,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								5MsOVT5d8mht
-								rfCNtCfPug==
+								cASJXS0w6NGt
+								2SmIInBlvg==
 								</data>
 								<key>Size</key>
-								<integer>1850</integer>
+								<integer>1866</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -747,7 +757,7 @@
 				NDM0RS00NzdDLUIwQTQtMUM3ODM2MzEwNjY5XxASQWxs
 				YW5Ub25lIExvZ28ucG5nXxAkM0QyRkI5NDUtM0ExNi00
 				M0M4LUE1QUEtODBFRTJFNTg1QjJG0kwPTU5XTlMudGlt
-				ZSNBwwxs20uJQIAO0iYnUFFWTlNEYXRlolAr0w0OD1NV
+				ZSNBwwxwywWO0oAO0iYnUFFWTlNEYXRlolAr0w0OD1NV
 				V6FUgBChVoARgBJfEExmaWxlOi8vL1VzZXJzL2JlbnBh
 				dGNoL1NpdGVzL2FsbGFudG9uZXN0dWRpb3MuY29tL2Nv
 				ZGUvYWxsYW50b25lc3R1ZGlvcy5jb20vCNImJ1tcXxAT
@@ -757,7 +767,7 @@
 				E4AAgACAGYAWgBWAGIAXXxAkM0RERjkxQkEtMzQyRi00
 				NEM3LUEzM0MtMzk1MUIxNzIyODg3XxAPZmF2aWNvbl8x
 				ODAucG5nXxAkMTM1Qzg2NDAtRUFGNC00RDczLUFFQ0Et
-				REVDOThFMUYyODc30kwPcU4jQcMMbNtLiYuADtMNDg90
+				REVDOThFMUYyODc30kwPcU4jQcMMcMsFjx2ADtMNDg90
 				dlehdYAaoVaAEYASXxBMZmlsZTovLy9Vc2Vycy9iZW5w
 				YXRjaC9TaXRlcy9hbGxhbnRvbmVzdHVkaW9zLmNvbS9j
 				b2RlL2FsbGFudG9uZXN0dWRpb3MuY29tL18QUS9Vc2Vy
@@ -767,8 +777,8 @@
 				I4ATgACAAIAhgB6AHYAggB9fECREMzUxNDIzNy00QjI4
 				LTQ5N0QtQTYyRC0xNDk4NDBERkZFQzRfEBVmYXZpY29u
 				X2FsbGFudG9uZS5zdmdfECRGNkRBM0UwMy01QzZBLTRE
-				NzYtOUVFNy05NjRDRDk2QzI1MzDSTA+KTiNBwwxs20uJ
-				pIAO0w0OD42PV6GOgCKhVoARgBJfEExmaWxlOi8vL1Vz
+				NzYtOUVFNy05NjRDRDk2QzI1MzDSTA+KTiNBwwxwywWP
+				NoAO0w0OD42PV6GOgCKhVoARgBJfEExmaWxlOi8vL1Vz
 				ZXJzL2JlbnBhdGNoL1NpdGVzL2FsbGFudG9uZXN0dWRp
 				b3MuY29tL2NvZGUvYWxsYW50b25lc3R1ZGlvcy5jb20v
 				XxBXL1VzZXJzL2JlbnBhdGNoL1NpdGVzL2FsbGFudG9u
@@ -778,7 +788,7 @@
 				JDA2QkEyM0YzLTc3NTItNEUwMC1CQjVGLUQ4QkY2RjI2
 				NzQwOF8QFWZhdmljb25fYWxsYW50b25lLnN2Z18QJEE2
 				RDNFMjQ0LTNGOUMtNDE5OC04MzFDLTY5MkYxMjU2QTc5
-				M9JMD6NOI0HDDGzbS4m+gA7TDQ4PpqhXoaeAKqFWgBGA
+				M9JMD6NOI0HDDHDLBY9QgA7TDQ4PpqhXoaeAKqFWgBGA
 				El8QTGZpbGU6Ly8vVXNlcnMvYmVucGF0Y2gvU2l0ZXMv
 				YWxsYW50b25lc3R1ZGlvcy5jb20vY29kZS9hbGxhbnRv
 				bmVzdHVkaW9zLmNvbS9fEFcvVXNlcnMvYmVucGF0Y2gv
@@ -788,7 +798,7 @@
 				gACAMYAugC2AMIAvXxAkQTc0MUM1QkItQkY4QS00M0VG
 				LTg2MEUtRUU3NjcxNjUwQTdDXxAVZmF2aWNvbl9hbGxh
 				bnRvbmUuc3ZnXxAkQUZEQUVCQjEtQjEyRC00QUE2LTg3
-				RUYtRTQ2ODYwRjlBMjgw0kwPvE4jQcMMbNtLideADtMN
+				RUYtRTQ2ODYwRjlBMjgw0kwPvE4jQcMMcMsFj2mADtMN
 				Dg+/wVehwIAyoVaAEYASXxBMZmlsZTovLy9Vc2Vycy9i
 				ZW5wYXRjaC9TaXRlcy9hbGxhbnRvbmVzdHVkaW9zLmNv
 				bS9jb2RlL2FsbGFudG9uZXN0dWRpb3MuY29tL18QVy9V
@@ -799,7 +809,7 @@
 				MUQzNi0yN0QwLTQwNjEtQTQ0Mi1GQzg3MDdCNUNFQzVf
 				EBtmYXZpY29uX2JsYWNrX2FsbGFudG9uZS5zdmdfECQ1
 				QzBFODQ2Ny1CQTY3LTQ4ODQtQkVGMS1FNENDNEJCMDhF
-				OEXSTA/VTiNBwwxs20uJ8IAO0w0OD9jaV6HZgDqhVoAR
+				OEXSTA/VTiNBwwxwywWPgoAO0w0OD9jaV6HZgDqhVoAR
 				gBJfEExmaWxlOi8vL1VzZXJzL2JlbnBhdGNoL1NpdGVz
 				L2FsbGFudG9uZXN0dWRpb3MuY29tL2NvZGUvYWxsYW50
 				b25lc3R1ZGlvcy5jb20vXxBdL1VzZXJzL2JlbnBhdGNo
