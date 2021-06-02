@@ -35,7 +35,7 @@
 					<key>file:///Users/benpatch/Sites/allantonestudios.com/code/allantonestudios.com/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-04-06T15:04:08Z</date>
+						<date>2021-06-02T20:48:38Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -120,15 +120,25 @@
 								<key>Size</key>
 								<integer>709690</integer>
 							</dict>
-							<key>files/stacks-image-29833c8.jpg</key>
+							<key>files/stacks-image-3d355aa.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								P8IRQ37QBAn8
-								fx+LbCE9Pg==
+								fixbVIfPprIW
+								6FyR7R0TJA==
 								</data>
 								<key>Size</key>
-								<integer>295897</integer>
+								<integer>336810</integer>
+							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5MsOVT5d8mht
+								rfCNtCfPug==
+								</data>
+								<key>Size</key>
+								<integer>1850</integer>
 							</dict>
 							<key>files/stacks_page_page0.css</key>
 							<dict>
@@ -154,8 +164,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								gOrtHHE9HR7h
-								gD1LdqzvSg==
+								VVVu7TMtM84W
+								hiO7CInzvQ==
 								</data>
 								<key>Size</key>
 								<integer>63823</integer>
