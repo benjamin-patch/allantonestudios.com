@@ -7,9 +7,9 @@
 	<key>pageInspectorVisible</key>
 	<false/>
 	<key>projectViewVisible</key>
-	<true/>
+	<false/>
 	<key>projectViewWidth</key>
-	<real>248</real>
+	<real>200</real>
 	<key>selectedInspectorTab</key>
 	<string>pageSettings</string>
 	<key>selectedItems</key>
