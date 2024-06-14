@@ -5621,6 +5621,13 @@ body {
 
 	
 
+.stacks_in_330-anchor > a > i {
+  margin-right: 4px;
+}
+
+@media (max-width: 47.9em) {
+  
+}
 .stacks_in_334-anchor > a > i {
   margin-right: 4px;
 }
@@ -5629,13 +5636,6 @@ body {
   
 }
 .stacks_in_333-anchor > a > i {
-  margin-right: 4px;
-}
-
-@media (max-width: 47.9em) {
-  
-}
-.stacks_in_330-anchor > a > i {
   margin-right: 4px;
 }
 
@@ -5917,10 +5917,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -5928,7 +5924,6 @@ body {
 #stacks_in_468 {
 	
 }
-
 
 
 
@@ -5979,10 +5974,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -5990,7 +5981,6 @@ body {
 #stacks_in_476 {
 	
 }
-
 
 
 #stacks_in_337 h3 {
@@ -6078,10 +6068,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -6089,7 +6075,6 @@ body {
 #stacks_in_597 {
 	
 }
-
 
 
 
@@ -6237,10 +6222,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -6248,7 +6229,6 @@ body {
 #stacks_in_595 {
 	
 }
-
 
 
 
@@ -6349,10 +6329,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -6360,7 +6336,6 @@ body {
 #stacks_in_350 {
 	
 }
-
 
 
 
@@ -6461,10 +6436,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -6472,7 +6443,6 @@ body {
 #stacks_in_366 {
 	
 }
-
 
 
 #scrollToTopButton,
@@ -6723,10 +6693,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -6734,7 +6700,6 @@ body {
 #stacks_in_537 {
 	
 }
-
 
 
 
@@ -6835,10 +6800,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -6846,7 +6807,6 @@ body {
 #stacks_in_657 {
 	
 }
-
 
 
 
@@ -6866,10 +6826,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -6877,7 +6833,6 @@ body {
 #stacks_in_722 {
 	
 }
-
 
 
 
@@ -6978,10 +6933,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -6989,7 +6940,6 @@ body {
 #stacks_in_668 {
 	
 }
-
 
 
 
@@ -7009,10 +6959,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -7020,7 +6966,6 @@ body {
 #stacks_in_726 {
 	
 }
-
 
 
 
@@ -7121,10 +7066,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -7132,7 +7073,6 @@ body {
 #stacks_in_563 {
 	
 }
-
 
 
 
@@ -7233,10 +7173,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -7244,7 +7180,6 @@ body {
 #stacks_in_585 {
 	
 }
-
 
 #stacks_in_797 {
 	-moz-border-radius:  6px;
@@ -7322,10 +7257,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -7333,7 +7264,6 @@ body {
 #stacks_in_793 {
 	
 }
-
 
 
 
@@ -7377,6 +7307,87 @@ body {
 	
 
 	
+
+
+
+
+
+
+#stacks_in_819 h4 {
+	
+	font-style: normal;
+
+	
+	
+	letter-spacing: 0px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+#stacks_in_819 a.foundry-header-linked,
+#stacks_in_819 a.foundry-header-linked:visited {
+	color: rgba(3, 118, 216, 1.00);
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#stacks_in_819 a.foundry-header-linked:hover,
+#stacks_in_819 a.foundry-header-linked:active {
+	color: rgba(5, 116, 216, 1.00);
+	text-decoration: none;
+}
+
+
+
+@media (max-width: 47.9375em) {
+	/* iPhone */
+	#stacks_in_820 .foundry_column {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 48em) and (max-width: 61.9em) {
+	/* iPad */
+	#stacks_in_820 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+@media (min-width: 62em) {
+	/* Desktop */
+	#stacks_in_820 .foundry_column {
+		margin-bottom: 40px;
+	}
+}
+
+
+/* CSS for removing gutters if option is enabled. */
+#stacks_in_820 .row.no-gutters {
+	margin-right: 0;
+	margin-left: 0;
+  }
+  
+  #stacks_in_820 .row.no-gutters > [class^="col-"],
+  #stacks_in_820 .row.no-gutters > [class*=" col-"] {
+	padding-right: 0;
+	padding-left: 0;
+  }
+  
+
+
+
+
+
+
 
 
 
@@ -8842,10 +8853,6 @@ body {
 	
 
 	
-	
-	
-	
-	
 
 
 
@@ -8853,7 +8860,6 @@ body {
 #stacks_in_390 {
 	
 }
-
 
 
 

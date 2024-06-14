@@ -1832,6 +1832,40 @@ var jQuery = stacks.jQuery;var $ = jQuery;function megaMenu() {
 
   
 return stack;})(stacks.stacks_in_323);
+stacks.stacks_in_330 = {};
+stacks.stacks_in_330 = (function(stack) {
+var jQuery = stacks.jQuery;var $ = jQuery;
+$(document).ready(function(){
+  $(".stacks_in_330-anchor-scroll").click(function(event){
+    var clickedLink = $(this);
+    event.preventDefault();
+    var anchorOffset = ($('[name="'+this.hash.substring(1)+'"]').offset().top) - 100;
+    $('html,body').animate({scrollTop: anchorOffset}, 1000, "easeOutQuint");
+    // $('.foundry-mega-menu').slideToggle(300);
+  });
+
+
+  
+
+    // var inview = new Waypoint.Inview({
+    //   element: $('#demos'),
+    //   enter: function(direction) {
+    //       $(".stacks_in_330-anchor-scroll").parent().addClass('selected');
+    //       $(".stacks_in_330-anchor-scroll").parent().prev().removeClass('selected');
+    //       $(".stacks_in_330-anchor-scroll").parent().next().removeClass('selected');
+    //   },
+    //   exited: function(direction) {
+    //       $(".stacks_in_330-anchor-scroll").parent().removeClass('selected');
+    //     console.log('Exit triggered with direction ' + direction);
+    //   },
+    //   offset: 'bottom-in-view'
+    // });
+
+
+
+});
+
+return stack;})(stacks.stacks_in_330);
 stacks.stacks_in_334 = {};
 stacks.stacks_in_334 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;
@@ -1900,40 +1934,6 @@ $(document).ready(function(){
 });
 
 return stack;})(stacks.stacks_in_333);
-stacks.stacks_in_330 = {};
-stacks.stacks_in_330 = (function(stack) {
-var jQuery = stacks.jQuery;var $ = jQuery;
-$(document).ready(function(){
-  $(".stacks_in_330-anchor-scroll").click(function(event){
-    var clickedLink = $(this);
-    event.preventDefault();
-    var anchorOffset = ($('[name="'+this.hash.substring(1)+'"]').offset().top) - 100;
-    $('html,body').animate({scrollTop: anchorOffset}, 1000, "easeOutQuint");
-    // $('.foundry-mega-menu').slideToggle(300);
-  });
-
-
-  
-
-    // var inview = new Waypoint.Inview({
-    //   element: $('#demos'),
-    //   enter: function(direction) {
-    //       $(".stacks_in_330-anchor-scroll").parent().addClass('selected');
-    //       $(".stacks_in_330-anchor-scroll").parent().prev().removeClass('selected');
-    //       $(".stacks_in_330-anchor-scroll").parent().next().removeClass('selected');
-    //   },
-    //   exited: function(direction) {
-    //       $(".stacks_in_330-anchor-scroll").parent().removeClass('selected');
-    //     console.log('Exit triggered with direction ' + direction);
-    //   },
-    //   offset: 'bottom-in-view'
-    // });
-
-
-
-});
-
-return stack;})(stacks.stacks_in_330);
 stacks.stacks_in_484 = {};
 stacks.stacks_in_484 = (function(stack) {
 var jQuery = stacks.jQuery;var $ = jQuery;
