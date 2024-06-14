@@ -438,10 +438,10 @@ function foundry_navigation_bar() {
 	//
 	// Handles displaying drop down navigation.
 	//
-	$('#stacks_in_38_2 .navigation_bar .navigation_container ul').find("> li").each(function() {
+	$('#stacks_in_38_2 .navigation_bar .navigation_container ul').find("li").each(function() {
 			if ($(this).find("ul:first").length > 0) {
 
-					$(this).find('> a.parent').click(function() {
+					$(this).find('a.parent').click(function() {
 
 						event.preventDefault();
 
@@ -467,20 +467,7 @@ function foundry_navigation_bar() {
 							$(this).parent().find("> a").toggleClass('closed').toggleClass('open');
 					});
 			}
-
-		
-						
-		});
-		
-		$('html').click(function() {
-			$('#stacks_in_38_2 .navigation_bar .navigation_container ul > li > a').addClass('closed').removeClass('open');
-			$('#stacks_in_38_2 .navigation_bar .navigation_container ul > li > ul').stop(true, true).slideUp(200);
-		});
-	
-		$('#stacks_in_38_2').click(function(event){
-			event.stopPropagation();
-		});
-
+	});
 	
 
 	
