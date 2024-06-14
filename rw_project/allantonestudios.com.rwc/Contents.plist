@@ -1629,7 +1629,7 @@
 					<key>PublishingSettingsConfigured</key>
 					<true/>
 					<key>RWBadge</key>
-					<string>{"delayDistance":30,"url":"https:\/\/www.realmacsoftware.com","position":"bottomLeft","useDefaultImage":true,"colorScheme":"auto","delayType":"time","delayMillis":1000,"transition":"slide","imageAlt":"RapidWeaver Icon","openInNewWindow":true,"hiddenOnTablet":false,"enabled":false,"text":"Made in RapidWeaver","hiddenOnMobile":false,"hiddenOnDesktop":false}</string>
+					<string>{"url":"https:\/\/www.realmacsoftware.com","useDefaultImage":true,"text":"Made in RapidWeaver","hiddenOnDesktop":false,"delayType":"time","colorScheme":"auto","hiddenOnTablet":false,"openInNewWindow":true,"transition":"slide","imageAlt":"RapidWeaver Icon","enabled":false,"delayMillis":1000,"hiddenOnMobile":false,"position":"bottomLeft","delayDistance":30}</string>
 					<key>RememberPrivacyMessageDismissed</key>
 					<false/>
 					<key>SelectedPublishingDestinationIndex</key>
